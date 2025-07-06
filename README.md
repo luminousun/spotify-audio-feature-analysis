@@ -19,20 +19,6 @@ This project explores audio features of over 100,000 songs available on Spotify 
 - Data handling: Jupyter Notebook
 - Optional: Scikit-learn for clustering or PCA
 
-## 📂 Folder Structure
-spotify-audio-feature-analysis/
-│
-├── data/ # Dataset CSV
-├── notebooks/
-│ ├── 01_load_clean.ipynb # Load and preprocess the dataset
-│ ├── 02_eda_genre.ipynb # Genre-based analysis
-│ ├── 03_feature_correlation.ipynb # Feature comparison
-│ └── 04_visuals.ipynb # Final charts
-├── visuals/ # Saved charts and graphs
-├── README.md
-├── requirements.txt
-└── .gitignore
-
 ## 📊 Sample Questions
 - What genres have the most energetic songs?
 - Are danceable songs usually also happy (valence)?
